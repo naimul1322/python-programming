@@ -10,3 +10,6 @@ print("Age is ",age)
 print("Price is ",price)
 print(type(name))
 print(type(age))
+
+name=input("enter you name: ")
+print("Weclome",name)
