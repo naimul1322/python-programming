@@ -1,10 +1,11 @@
 # list and tuples practice
 
-movies=[]
+# movies=[]
 
 
-movies.append(input())
-movies.append(input())
-movies.append(input())
+# movies.append(input())
+# movies.append(input())
+# movies.append(input())
 
-print(movies)
+# print(movies)
+

@@ -13,5 +13,6 @@ else:
     print("Not Palindrome")
 
 
-tup=("c","a","d","c","a","a")
-print(tup.count("a"))
+# tup=("c","a","d","c","a","a")
+# print(tup.count("a"))
+
